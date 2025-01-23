@@ -1,4 +1,4 @@
-window.addEventListener("DOMContentLoaded", Boolean)
+addEventListener("DOMContentLoaded", (event) => {});
 
 const next = document.querySelector('.next')
 const prev = document.querySelector('.prev')
